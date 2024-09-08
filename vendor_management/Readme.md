@@ -81,6 +81,7 @@ Run the development server: python manage.py runserver
     - Vendors: `http://localhost:8000/api/vendors/`
     - Purchase Orders: `http://localhost:8000/api/purchase_orders/`
     - Vendor Performance: `http://localhost:8000/api/vendors/{vendor_id}/performance/`
+    - Postman Collection: `https://documenter.getpostman.com/view/37117154/2sAXjRWVJd`
 
 
 ## Authentication
